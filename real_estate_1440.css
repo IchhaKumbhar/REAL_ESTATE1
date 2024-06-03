@@ -1,0 +1,451 @@
+.real-estate-1440 .background {
+    background: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .real-estate-1440 .res {
+    margin: 16px 42.3px 672px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -3px;
+    line-height: 1.2;
+    color: #333333;
+  }
+  .real-estate-1440 .about-property-servi {
+    margin: 0 1.1px 113px 12px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    line-height: 2;
+    color: #333333;
+  }
+  .real-estate-1440 .real-estate {
+    margin-bottom: 22px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 1.778;
+    text-transform: uppercase;
+    color: #F0A929;
+  }
+  .real-estate-1440 .find-your-perfect-ho {
+    margin: 0 6px 25px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 72px;
+    letter-spacing: -3px;
+    line-height: 1.111;
+    color: #333333;
+  }
+  .real-estate-1440 .the-sky-was-cloudles {
+    margin-bottom: 39px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    line-height: 1.6;
+    color: #333333;
+  }
+  .real-estate-1440 .button-1 {
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    color: #FFFFFF;
+  }
+  .real-estate-1440 .button {
+    border-radius: 24px;
+    background: #353448;
+    position: relative;
+    margin-right: 32px;
+    display: flex;
+    padding: 14px 0 15px 1px;
+    width: 154px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .triangle {
+    border-radius: 1px;
+    width: 12px;
+    height: 16px;
+  }
+  .real-estate-1440 .container-9 {
+    box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.075);
+    border-radius: 24px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 16px;
+    display: flex;
+    padding: 16px 16px 16px 20px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .play-video {
+    margin: 9px 0 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    line-height: 2;
+    color: #333333;
+  }
+  .real-estate-1440 .play {
+    margin-right: 0px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-7 {
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .shape {
+    width: 32px;
+    height: 31.9px;
+  }
+  .real-estate-1440 .container-17 {
+    box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.075);
+    border-radius: 8px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 0 32px 3px 0;
+    display: flex;
+    padding: 16px 18px 16.1px 18px;
+    width: 68px;
+    height: 64px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container {
+    margin-bottom: 3px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #333333;
+  }
+  .real-estate-1440 .the-sky-was-cloudles-1 {
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    line-height: 2;
+    color: rgba(51, 51, 51, 0.496);
+  }
+  .real-estate-1440 .container-1 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .block {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-12 {
+    margin: 25px 206.3px 21px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .rectangle-6 {
+    border-radius: 24px;
+    border: 1px solid rgba(53, 52, 72, 0.237);
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    width: 138px;
+    height: 48px;
+  }
+  .real-estate-1440 .button-3 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    color: #353448;
+  }
+  .real-estate-1440 .button-2 {
+    border-radius: 0 0 0 100px;
+    background: #FFF6E7;
+    position: relative;
+    display: flex;
+    padding: 30px 64.7px 0 64.7px;
+    width: 670px;
+    height: 736px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-13 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .pic {
+    position: absolute;
+    top: 50%;
+    right: 135px;
+    translate: 0 -50%;
+    width: 670px;
+    height: 544px;
+  }
+  .real-estate-1440 .container-11 {
+    position: relative;
+    margin: 0 0 96px 24px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .path {
+    width: 16px;
+    height: 18px;
+  }
+  .real-estate-1440 .down {
+    border-radius: 24px;
+    border: 1px solid rgba(53, 52, 72, 0.237);
+    position: relative;
+    margin: 75px 0 68px 0;
+    display: flex;
+    padding: 15px 16px;
+    width: 48px;
+    height: 48px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .members {
+    margin-bottom: 17px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 1.778;
+    text-transform: uppercase;
+    color: #F0A929;
+  }
+  .real-estate-1440 .our-staff-will-make {
+    margin-bottom: 4px;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -3px;
+    line-height: 1.2;
+    color: #333333;
+  }
+  .our-staff-will-make-sub1 {
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -3px;
+    line-height: 1.333;
+  }
+  .our-staff-will-make {
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 40px;
+    letter-spacing: -3px;
+    line-height: 1.333;
+  }
+  .real-estate-1440 .learn-more {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.5px;
+    line-height: 1.6;
+    color: #333333;
+  }
+  .real-estate-1440 .block-1 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-5 {
+    background: #FFF6E7;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 26px 0 32px 42px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-6 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-4 {
+    width: 186px;
+    height: 267px;
+  }
+  .real-estate-1440 .object {
+    background: url('../assets/images/bitmap.png');
+    position: absolute;
+    left: 135px;
+    bottom: 0px;
+    display: flex;
+    width: 186px;
+    height: 267px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .rectangle-8 {
+    border-radius: 8px 8px 0 0;
+    background: #F8BF58;
+    margin-bottom: 24px;
+    width: 600px;
+    height: 8px;
+  }
+  .real-estate-1440 .shape-6 {
+    width: 27px;
+    height: 32px;
+  }
+  .real-estate-1440 .container-15 {
+    border-radius: 8px;
+    background: #F8BF58;
+    position: relative;
+    margin-bottom: 40px;
+    display: flex;
+    align-self: flex-start;
+    padding: 16px 20px;
+    width: 68px;
+    height: 64px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .better {
+    margin-bottom: 19px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #333333;
+  }
+  .real-estate-1440 .cloudless-and-of-ad {
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    line-height: 2;
+    color: rgba(51, 51, 51, 0.496);
+  }
+  .real-estate-1440 .container-14 {
+    margin: 0 40.8px 5px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .rectangle-10 {
+    background: #E7E2D9;
+    margin-right: 29px;
+    width: 1px;
+    height: 224px;
+  }
+  .real-estate-1440 .combined-shape-1 {
+    width: 31.9px;
+    height: 31.9px;
+  }
+  .real-estate-1440 .container-8 {
+    box-shadow: 0px 12px 24px 0px rgba(0, 0, 0, 0.075);
+    border-radius: 8px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 40px;
+    display: flex;
+    align-self: flex-start;
+    padding: 16px 17.1px 16.1px 19px;
+    width: 68px;
+    height: 64px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .faster {
+    margin-bottom: 19px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.333;
+    color: #333333;
+  }
+  .real-estate-1440 .deep-dark-blue-the-s {
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: -0.5px;
+    line-height: 2;
+    color: rgba(51, 51, 51, 0.496);
+  }
+  .real-estate-1440 .container-16 {
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .container-10 {
+    margin: 0 30px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 .block-2 {
+    box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.075);
+    border-radius: 8px 8px 0 0;
+    background: #FFFFFF;
+    position: absolute;
+    right: 135px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .real-estate-1440 {
+    background: #FFFFFF;
+    display: flex;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  
